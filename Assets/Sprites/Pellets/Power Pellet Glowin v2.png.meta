@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 0aa0ef0dec2fe2b4caa57b2668c63ba3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3749072508464516335
+    second: Power Pellet Glowin v2_0
+  - first:
+      213: -5648993814726535587
+    second: Power Pellet Glowin v2_1
+  - first:
+      213: -3213713389038344716
+    second: Power Pellet Glowin v2_2
+  - first:
+      213: -1084705575809294592
+    second: Power Pellet Glowin v2_3
+  - first:
+      213: -8891202608397077944
+    second: Power Pellet Glowin v2_4
+  - first:
+      213: -7184266446412923628
+    second: Power Pellet Glowin v2_5
+  - first:
+      213: -1261905125029572728
+    second: Power Pellet Glowin v2_6
+  - first:
+      213: -1609158476429519272
+    second: Power Pellet Glowin v2_0
+  - first:
+      213: -800748896518369636
+    second: Power Pellet Glowin v2_1
+  - first:
+      213: -6559605717608265383
+    second: Power Pellet Glowin v2_2
+  - first:
+      213: -7769026648577633340
+    second: Power Pellet Glowin v2_3
+  - first:
+      213: 2619194481207148228
+    second: Power Pellet Glowin v2_4
+  - first:
+      213: -5177237622204256437
+    second: Power Pellet Glowin v2_5
+  - first:
+      213: 8631960322424464880
+    second: Power Pellet Glowin v2_6
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Power Pellet Glowin v2_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 282
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8561c1134ee1ba9e0800000000000000
+      internalID: -1609158476429519272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Pellet Glowin v2_1
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 282
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e8cb40f1b23e4f0800000000000000
+      internalID: -800748896518369636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Pellet Glowin v2_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 282
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9598657aa5997f4a0800000000000000
+      internalID: -6559605717608265383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Pellet Glowin v2_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 154
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c39cf8dc6fde2490800000000000000
+      internalID: -7769026648577633340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Pellet Glowin v2_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 154
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef30ae08f395420800000000000000
+      internalID: 2619194481207148228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Pellet Glowin v2_5
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 154
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2ab210d1c628b0800000000000000
+      internalID: -5177237622204256437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Power Pellet Glowin v2_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 26
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5606ddd22eac770800000000000000
+      internalID: 8631960322424464880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
