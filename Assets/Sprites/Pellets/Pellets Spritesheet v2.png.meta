@@ -26,6 +26,30 @@ TextureImporter:
   - first:
       213: 5436684199830202175
     second: Pellets Spritesheet v2_7
+  - first:
+      213: -2390260287463379766
+    second: Pellets Spritesheet v2_0
+  - first:
+      213: -2950081204455577543
+    second: Pellets Spritesheet v2_1
+  - first:
+      213: -7034501864683630332
+    second: Pellets Spritesheet v2_2
+  - first:
+      213: -1985006836203540262
+    second: Pellets Spritesheet v2_3
+  - first:
+      213: -4612630948612233863
+    second: Pellets Spritesheet v2_4
+  - first:
+      213: 850126954453648885
+    second: Pellets Spritesheet v2_5
+  - first:
+      213: 3071727153430283366
+    second: Pellets Spritesheet v2_6
+  - first:
+      213: -748458898128071383
+    second: Pellets Spritesheet v2_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -69,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 48
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -87,7 +111,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -99,7 +123,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 2
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,10 +137,10 @@ TextureImporter:
       name: Pellets Spritesheet v2_0
       rect:
         serializedVersion: 2
-        x: 20
-        y: 212
-        width: 24
-        height: 24
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,8 +148,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b61ebfa38a140ead0800000000000000
-      internalID: -2675065987858177685
+      spriteID: acca505cee614ded0800000000000000
+      internalID: -2390260287463379766
       vertices: []
       indices: 
       edges: []
@@ -134,10 +158,10 @@ TextureImporter:
       name: Pellets Spritesheet v2_1
       rect:
         serializedVersion: 2
-        x: 144
-        y: 208
-        width: 32
-        height: 32
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,8 +169,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e1674af175a0d31a0800000000000000
-      internalID: -6828290090714499554
+      spriteID: 9386ed556c43f07d0800000000000000
+      internalID: -2950081204455577543
       vertices: []
       indices: 
       edges: []
@@ -155,10 +179,10 @@ TextureImporter:
       name: Pellets Spritesheet v2_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 144
-        width: 32
-        height: 32
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +190,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e4dd50eb66f2fdc0800000000000000
-      internalID: -3606549408384166686
+      spriteID: 40195bf03dd606e90800000000000000
+      internalID: -7034501864683630332
       vertices: []
       indices: 
       edges: []
@@ -176,10 +200,10 @@ TextureImporter:
       name: Pellets Spritesheet v2_3
       rect:
         serializedVersion: 2
-        x: 80
-        y: 144
-        width: 32
-        height: 32
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,8 +211,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1caf995b855a26e0800000000000000
-      internalID: -1861581438971827174
+      spriteID: ad0bd5bacc6d374e0800000000000000
+      internalID: -1985006836203540262
       vertices: []
       indices: 
       edges: []
@@ -197,10 +221,10 @@ TextureImporter:
       name: Pellets Spritesheet v2_4
       rect:
         serializedVersion: 2
-        x: 144
-        y: 144
-        width: 32
-        height: 32
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,8 +232,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ff5ea3a8def82e400800000000000000
-      internalID: 352001971277456895
+      spriteID: 975aefb4794acffb0800000000000000
+      internalID: -4612630948612233863
       vertices: []
       indices: 
       edges: []
@@ -218,10 +242,10 @@ TextureImporter:
       name: Pellets Spritesheet v2_5
       rect:
         serializedVersion: 2
-        x: 208
-        y: 144
-        width: 32
-        height: 32
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -229,8 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a605b85ace40f56a0800000000000000
-      internalID: -6458437926189838230
+      spriteID: 5f5c13ef5f14ccb00800000000000000
+      internalID: 850126954453648885
       vertices: []
       indices: 
       edges: []
@@ -240,9 +264,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 3
+        y: 0
         width: 64
-        height: 56
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,8 +274,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c041d253967971270800000000000000
-      internalID: 8221206122907636748
+      spriteID: 66442234297f0aa20800000000000000
+      internalID: 3071727153430283366
       vertices: []
       indices: 
       edges: []
@@ -260,10 +284,10 @@ TextureImporter:
       name: Pellets Spritesheet v2_7
       rect:
         serializedVersion: 2
-        x: 136
-        y: 3
-        width: 52
-        height: 56
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -271,8 +295,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f37abd6997bf27b40800000000000000
-      internalID: 5436684199830202175
+      spriteID: 92598100990fc95f0800000000000000
+      internalID: -748458898128071383
       vertices: []
       indices: 
       edges: []
